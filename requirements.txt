@@ -41,3 +41,7 @@ urllib3==1.26.7
 Werkzeug==2.0.2
 wrapt==1.13.3
 zipp==3.6.0
+scikit-image==0.18.3
+scipy==1.7.1
+matplotlib==3.4.3
+
